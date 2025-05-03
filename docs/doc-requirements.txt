@@ -5,3 +5,4 @@ nbsphinx
 pydata-sphinx-theme
 sphinxext-rediraffe
 sphinx-panels
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
